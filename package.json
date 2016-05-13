@@ -12,6 +12,10 @@
   ],
   "author": "Billaferd",
   "license": "MIT",
+  "repository" :
+    { "type" : "git"
+    , "url" : "https://github.com/Billaferd/koa-typeset.git"
+    },
   "dependencies": {
     "koa-is-json": "^1.0.0",
     "tipograph": "^0.3.3"
