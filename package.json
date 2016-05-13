@@ -1,0 +1,19 @@
+{
+  "name": "koa-typeset",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "typeset"
+  ],
+  "author": "Billaferd",
+  "license": "MIT",
+  "dependencies": {
+    "koa-is-json": "^1.0.0",
+    "tipograph": "^0.3.3"
+  }
+}
